@@ -1,3 +1,3 @@
 # git-exercise
 
-hihi
+hihi   hix2
